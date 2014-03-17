@@ -1,0 +1,4 @@
+/Users/ryanmalone/Projects/FindTheMonkey/FindTheMonkey/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/ryanmalone/Projects/FindTheMonkey/FindTheMonkey/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/ryanmalone/Projects/FindTheMonkey/FindTheMonkey/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/ryanmalone/Projects/FindTheMonkey/FindTheMonkey/obj/iPhone/Debug/mtouch-cache/Link/FindTheMonkey.exe
